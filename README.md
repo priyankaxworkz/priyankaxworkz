@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
 
+<img src="https://camo.githubusercontent.com/01c83210f7feb97…15a32395077306f2f636f64696e672d667265616b2e676966" align="right" width="400">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaxworkz" /> </p>
 
 - 🌱 I’m currently learning **Java Enterprise Application Development Course**
