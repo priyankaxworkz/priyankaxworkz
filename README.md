@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
 
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhCx7SjTwNw-pSyGO7Cs8mQ08tszWmHocZ7PSio67qA&s">
+<img align="right" width="400" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaxworkz" /> </p>
