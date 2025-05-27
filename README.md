@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaxworkz" /> </p>
 
-- 🌱 I’m currently learning **Java Enterprise Application Development Course**
+- 🌱 I have finished **Java Enterprise Application Development Course**
 
 - 💬 Ask me about **Java,Mysql,html,css,javascript**
 
